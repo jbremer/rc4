@@ -7,7 +7,7 @@ from setuptools import setup
 setup(
     name="rc4",
     version="0.1",
-    author='Jurriaan Bremer',
+    author="Jurriaan Bremer",
     author_email="jbr@cuckoo.sh",
     packages=[
         "rc4",
