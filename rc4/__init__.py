@@ -21,4 +21,4 @@ def rc4(data, key):
 if __name__ == "__main__":
     buf = rc4("Hello World", "rc4")
     assert rc4(buf, "rc4") == "Hello World"
-    print "Ran 1 test.."
+    print("Ran 1 test..")
