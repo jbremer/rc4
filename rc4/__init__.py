@@ -1,4 +1,4 @@
-# Copyright (C) 2016 Jurriaan Bremer.
+# Copyright (C) 2016-2017 Jurriaan Bremer.
 # See the file 'LICENSE.txt' for copying permission.
 
 def rc4(data, key):
